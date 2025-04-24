@@ -29,7 +29,7 @@ Um app construído com [LangChain](https://www.langchain.com/), que integra ferr
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/ai-agent-app.git
+git clone https://github.com/lucasvteodoro/ai-agent-app.git
 cd ai-agent-app
 ```
 
