@@ -41,7 +41,7 @@ docker build -t ai-agent-app .
 ```bash
 docker run -p 8501:8501 -e GOOGLE_API_KEY=your_google_api_key -e GOOGLE_CSE_ID=your_google_cse_id -e ANTHROPIC_API_KEY=your_anthropic_api_key ai-agent-app
 ```
-4. ***Acesse o browser**
+4. **Acesse o browser**
 ```bash
 http://localhost:8501/
 ```
